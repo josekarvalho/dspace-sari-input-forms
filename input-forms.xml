@@ -124,7 +124,17 @@
          <hint>No caso de artigos em revista, capítulos de livro, etc...</hint>
          <required></required>
        </field>
-
+       
+	<field>
+         <dc-schema>degois</dc-schema>
+         <dc-element>publication</dc-element>
+         <dc-qualifier>volume</dc-qualifier>
+         <repeatable>false</repeatable>
+         <label>Volume</label>
+         <input-type>onebox</input-type>
+         <hint>Introduza o número do volume ou a série da revista em que foi publicado.</hint>
+         <required></required>
+       </field>
 
        <field>
          <dc-schema>dc</dc-schema>
