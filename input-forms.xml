@@ -281,13 +281,13 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
        </field>
 	
        <field>
-		<dc-schema>dc</dc-schema>
-		<dc-element>relation</dc-element>
-		<repeatable>false</repeatable>
-		<label>Projeto</label>
-		<input-type>onebox</input-type>
-		<hint>
-		Introduza o nome do projeto com financiamento da Comissão Europeia (7ºPQ, H2020, ERC). &lt;br /&gt;Adicione o termo de pesquisa (número, nome ou acrónimo) e clique na lupa para selecionar o projecto. &lt;a href=&quot;http://www.openaire.eu/open-access/open-access-in-fp7&quot;&gt;Mais informação&lt;/a&gt;</hint>
+	<dc-schema>dc</dc-schema>
+	<dc-element>relation</dc-element>
+	<repeatable>false</repeatable>
+	<label>Projeto</label>
+	<input-type>onebox</input-type>
+	<hint>
+	Introduza o nome do projeto com financiamento da Comissão Europeia (7ºPQ, H2020, ERC). &lt;br /&gt;Adicione o termo de pesquisa (número, nome ou acrónimo) e clique na lupa para selecionar o projecto. &lt;a href=&quot;http://www.openaire.eu/open-access/open-access-in-fp7&quot;&gt;Mais informação&lt;/a&gt;</hint>
        </field>
 
        <field>
@@ -317,8 +317,8 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
 <form name="thesis">
      <page number="1">
 	 
-	   <field>
-	   <dc-schema>dc</dc-schema>
+	<field>
+	 <dc-schema>dc</dc-schema>
          <dc-element>title</dc-element>
          <dc-qualifier></dc-qualifier>
          <repeatable>false</repeatable>
@@ -330,8 +330,8 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
          <required>Tem que introduzir um título principal do registo.</required>
        </field>
 	   
-	   <field>
-	   		<dc-schema>dc</dc-schema>
+	<field>
+	 <dc-schema>dc</dc-schema>
          <dc-element>title</dc-element>
          <dc-qualifier>alternative</dc-qualifier>
          <repeatable>false</repeatable>
@@ -383,8 +383,8 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
          <hint>Introduza a data em que a tese foi submetida.</hint>
        </field>
        
-    <field>
-    	<dc-schema>dc</dc-schema>
+    	<field>
+    	 <dc-schema>dc</dc-schema>
          <dc-element>date</dc-element>
          <dc-qualifier>embargo</dc-qualifier>
          <repeatable>false</repeatable>
@@ -394,18 +394,18 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
        </field>
 	   
        <field>
-		 <dc-schema>thesis</dc-schema>
-         <dc-element>degree</dc-element>
-         <dc-qualifier>name</dc-qualifier>
-         <repeatable>false</repeatable>
-         <label>Designação</label>
-         <input-type>onebox</input-type>
-         <hint>Designação do grau associado ao trabalho, tal como apresentado na obra. (exemplo: Mestrado em Tecnologias Educativas)</hint>
+	<dc-schema>thesis</dc-schema>
+        <dc-element>degree</dc-element>
+        <dc-qualifier>name</dc-qualifier>
+        <repeatable>false</repeatable>
+        <label>Designação</label>
+        <input-type>onebox</input-type>
+        <hint>Designação do grau associado ao trabalho, tal como apresentado na obra. (exemplo: Mestrado em Tecnologias Educativas)</hint>
        </field>
        
        
        <field>
-		 <dc-schema>thesis</dc-schema>
+	<dc-schema>thesis</dc-schema>
          <dc-element>degree</dc-element>
          <dc-qualifier>level</dc-qualifier>
          <repeatable>false</repeatable>
@@ -416,7 +416,7 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
        
        
        <field>
-		 <dc-schema>thesis</dc-schema>
+	<dc-schema>thesis</dc-schema>
          <dc-element>degree</dc-element>
          <dc-qualifier>discipline</dc-qualifier>
          <repeatable>true</repeatable>
@@ -476,7 +476,7 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
        
        
        <field>
-		 <dc-schema>dc</dc-schema>
+	<dc-schema>dc</dc-schema>
          <dc-element>type</dc-element>
          <dc-qualifier></dc-qualifier>
          <label>Tipo</label>
@@ -485,8 +485,8 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
          <required>É obrigatório selecionar uma tipologia de documento.</required>
        </field>
        
-	   <field>
-	   <dc-schema>dc</dc-schema>
+	<field>
+	 <dc-schema>dc</dc-schema>
          <dc-element>rights</dc-element>
          <dc-qualifier></dc-qualifier>
          <repeatable>false</repeatable>
@@ -510,7 +510,7 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
        </field>
        
        <field>
-		 <dc-schema>dc</dc-schema>
+	<dc-schema>dc</dc-schema>
          <dc-element>description</dc-element>
          <dc-qualifier></dc-qualifier>
          <repeatable>false</repeatable>
