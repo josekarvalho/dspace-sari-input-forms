@@ -283,7 +283,7 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
        <field>
 	<dc-schema>dc</dc-schema>
 	<dc-element>relation</dc-element>
-	<repeatable>false</repeatable>
+	<repeatable>true</repeatable>
 	<label>Projeto</label>
 	<input-type>onebox</input-type>
 	<hint>
