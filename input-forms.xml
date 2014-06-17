@@ -507,6 +507,19 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
        </field>
        
        <field>
+       <dc-schema>dc</dc-schema>
+         <dc-element>description</dc-element>
+         <dc-qualifier>sponsorship</dc-qualifier>
+         <repeatable>true</repeatable>
+         <label>Entidade(s) patrocinadora(s)</label>
+         <input-type>textarea</input-type>
+         <hint>Introduza os nomes da(s) entidade(s) patrocinadora(s), do programa, acção ou bolsa e contrato ou designação do projecto
+         &lt;br&gt;Exemplo: &lt;b&gt;Fundação para a Ciência e a Tecnologia (FCT)&lt;/b&gt;
+         </hint>
+         <required></required>
+       </field>
+       
+       <field>
 	<dc-schema>dc</dc-schema>
          <dc-element>description</dc-element>
          <dc-qualifier></dc-qualifier>
