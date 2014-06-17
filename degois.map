@@ -1,0 +1,15 @@
+article = artigo-cientifico
+bookPart = capitulo-de-livro-publicado
+book = livro-publicado
+bachelorThesis = outra-producao-cientifica
+masterThesis = outra-producao-cientifica
+doctoralThesis = outra-producao-cientifica
+contributionToPeriodical = texto-em-jornal-ou-revista
+other = outra-producao-cientifica
+review = outra-producao-cientifica
+conferenceObject = apresentacao-oral-de-trabalho
+workingPaper = outra-producao-cientifica
+annotation = outra-producao-cientifica
+report = relatorio-de-investigacao
+lecture = outra-producao-cientifica
+preprint = outra-producao-cientifica
