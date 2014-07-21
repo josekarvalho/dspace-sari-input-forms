@@ -287,7 +287,7 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
 	<label>Projeto</label>
 	<input-type>onebox</input-type>
 	<hint>
-	Introduza o nome do projeto com financiamento da Comissão Europeia (7ºPQ, H2020, ERC). &lt;br /&gt;Adicione o termo de pesquisa (número, nome ou acrónimo) e clique na lupa para selecionar o projecto. &lt;a href=&quot;http://www.openaire.eu/open-access/open-access-in-fp7&quot;&gt;Mais informação&lt;/a&gt;</hint>
+	Introduza o nome do projeto com financiamento da Comissão Europeia (7ºPQ, H2020, ERC). &lt;br /&gt;Adicione o termo de pesquisa (número, nome ou acrónimo) e clique na lupa para selecionar o projecto. &lt;a href=&quot;https://www.openaire.eu/open-access-pilot/open-access-policies-and-mandates&quot;&gt;Mais informação&lt;/a&gt;</hint>
        </field>
 
        <field>
@@ -503,7 +503,7 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
 	<label>Projeto</label>
 	<input-type>onebox</input-type>
 	<hint>
-	Introduza o nome do projeto com financiamento da Comissão Europeia (7ºPQ, H2020, ERC). &lt;br /&gt;Adicione o termo de pesquisa (número, nome ou acrónimo) e clique na lupa para selecionar o projecto. &lt;a href=&quot;http://www.openaire.eu/open-access/open-access-in-fp7&quot;&gt;Mais informação&lt;/a&gt;</hint>
+	Introduza o nome do projeto com financiamento da Comissão Europeia (7ºPQ, H2020, ERC). &lt;br /&gt;Adicione o termo de pesquisa (número, nome ou acrónimo) e clique na lupa para selecionar o projecto. &lt;a href=&quot;https://www.openaire.eu/open-access-pilot/open-access-policies-and-mandates&quot;&gt;Mais informação&lt;/a&gt;</hint>
        </field>
        
        <field>
