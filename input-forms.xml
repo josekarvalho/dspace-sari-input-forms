@@ -305,7 +305,7 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
          <dc-schema>dc</dc-schema>
          <dc-element>description</dc-element>
          <dc-qualifier></dc-qualifier>
-         <repeatable>false</repeatable>
+         <repeatable>true</repeatable>
          <label>Descrição</label>
          <input-type>textarea</input-type>
          <hint> Descrição adicional e comentários. </hint>
@@ -523,7 +523,7 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
 	<dc-schema>dc</dc-schema>
          <dc-element>description</dc-element>
          <dc-qualifier></dc-qualifier>
-         <repeatable>false</repeatable>
+         <repeatable>true</repeatable>
          <label>Comentários</label>
          <input-type>textarea</input-type>
          <hint>Insira alguma informação adicional se necessário. </hint>
