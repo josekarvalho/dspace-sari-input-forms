@@ -85,16 +85,6 @@
 
        <field>
          <dc-schema>dc</dc-schema>
-         <dc-element>date</dc-element>
-         <dc-qualifier>embargo</dc-qualifier>
-         <repeatable>false</repeatable>
-         <label>Data de Embargo</label>
-         <input-type>date</input-type>
-         <hint>Data de Embargo : YYYY-MM-DD</hint>
-       </field>
-
-       <field>
-         <dc-schema>dc</dc-schema>
          <dc-element>publisher</dc-element>
          <dc-qualifier></dc-qualifier>
          <repeatable>false</repeatable>
@@ -222,6 +212,16 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
          <input-type value-pairs-name="common_rights">dropdown</input-type>
          <hint>Esta colecção é de acesso livre, caso pretenda que este artigo tenha outra condição de acesso indique-a aqui.</hint>
          <required></required>
+       </field>
+
+       <field>
+         <dc-schema>dc</dc-schema>
+         <dc-element>date</dc-element>
+         <dc-qualifier>embargo</dc-qualifier>
+         <repeatable>false</repeatable>
+         <label>Data de Embargo</label>
+         <input-type>date</input-type>
+         <hint>A dada a preencher será uma data posterior à data atual, para que ocorra o desembargo do documento.</hint>
        </field>
 
        <field>
@@ -382,17 +382,8 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
          <input-type>date</input-type>
          <hint>Introduza a data em que a tese foi submetida.</hint>
        </field>
-       
-    	<field>
-    	 <dc-schema>dc</dc-schema>
-         <dc-element>date</dc-element>
-         <dc-qualifier>embargo</dc-qualifier>
-         <repeatable>false</repeatable>
-         <label>Data de Embargo</label>
-         <input-type>date</input-type>
-         <hint>No caso de períodos de embargo, indique a data a partir da qual o trabalho pode ser tornado público</hint>
-       </field>
-	   
+
+
        <field>
 	<dc-schema>thesis</dc-schema>
         <dc-element>degree</dc-element>
@@ -494,6 +485,16 @@ Seleccione o tipo (em maiúsculas) e o sub-tipo. </hint>
          <input-type value-pairs-name="common_rights">dropdown</input-type>
          <hint>Esta colecção é por predefinição de acesso livre, caso pretenda que esta tese tenha outra condição de acesso indique-a aqui.</hint>
          <required></required>
+       </field>
+       
+        <field>
+         <dc-schema>dc</dc-schema>
+         <dc-element>date</dc-element>
+         <dc-qualifier>embargo</dc-qualifier>
+         <repeatable>false</repeatable>
+         <label>Data de Embargo</label>
+         <input-type>date</input-type>
+         <hint>A dada a preencher será uma data posterior à data atual, para que ocorra o desembargo do documento.</hint>
        </field>
 	
        <field>
